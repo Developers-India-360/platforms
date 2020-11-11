@@ -336,6 +336,9 @@ body {
   .con-links a{
     padding: 25px 22px;
   }
+  .con-links a span{
+        font-weight: bold;
+      }
   .con-links a i{
       
     left: 10px;
