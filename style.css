@@ -333,15 +333,19 @@ body {
       font-size: .8rem;
   }
 @media (max-width: 578px) {
-      .con-links a{
-            padding: 22px 22px;
-      }
+  .con-links a{
+    padding: 22px 22px;
+  }
+  .con-links a i{
+    left: 17px;
+    font-size: 1.8rem;
+  }
   .con-links a:after {
       content: '';
-      left: -10px;
+      left: -2px;
       top: 0px;
-      width: 35px;
-      height: 35px;
+      width: 63px;
+      height: 63px;
       background: rgb(var(--color));;
       position: absolute;
       border-radius: 50%;
