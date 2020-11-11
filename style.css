@@ -337,7 +337,8 @@ body {
     padding: 25px 22px;
   }
   .con-links a i{
-    left: 10.5px;
+    top: 2px;    
+    left: 10px;
     font-size: 1.8rem;
   }
   .con-links a:after {
