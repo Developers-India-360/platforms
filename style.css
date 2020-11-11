@@ -337,8 +337,8 @@ body {
       content: '';
       left: -2px;
       top: 0px;
-      width: 55px;
-      height: 55px;
+      width: 25px;
+      height: 25px;
       background: rgb(var(--color));;
       position: absolute;
       border-radius: 50%;
