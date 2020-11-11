@@ -332,3 +332,17 @@ body {
   .con-links a span p {
       font-size: .8rem;
   }
+@media (max-width: 578px) {
+  .con-links a:after {
+      content: '';
+      left: -2px;
+      top: 0px;
+      width: 55px;
+      height: 55px;
+      background: rgb(var(--color));;
+      position: absolute;
+      border-radius: 50%;
+      border: 0.5px solid black;
+
+  }
+}
