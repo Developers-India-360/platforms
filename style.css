@@ -334,11 +334,11 @@ body {
   }
 @media (max-width: 578px) {
       .con-links a{
-            padding: 18px 22px;
+            padding: 22px 22px;
       }
   .con-links a:after {
       content: '';
-      left: -4px;
+      left: -10px;
       top: 0px;
       width: 35px;
       height: 35px;
