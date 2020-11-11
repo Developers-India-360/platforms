@@ -333,6 +333,9 @@ body {
       font-size: .8rem;
   }
 @media (max-width: 578px) {
+      .con-links a{
+            padding: 18px 22px;
+      }
   .con-links a:after {
       content: '';
       left: -4px;
