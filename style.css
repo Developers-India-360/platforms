@@ -322,7 +322,7 @@ body {
       font-size: 1.6rem;
       position: absolute;
       left: 12.5px;
-      /* z-index: 10; */
+      z-index: 10;
       color: #fff;
   }
 
