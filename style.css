@@ -335,10 +335,10 @@ body {
 @media (max-width: 578px) {
   .con-links a:after {
       content: '';
-      left: -2px;
+      left: -4px;
       top: 0px;
-      width: 55px;
-      height: 55px;
+      width: 35px;
+      height: 35px;
       background: rgb(var(--color));;
       position: absolute;
       border-radius: 50%;
