@@ -334,7 +334,7 @@ body {
   }
 @media (max-width: 578px) {
   .con-links a{
-    padding: 25px 22px;
+    padding: 18px 22px;
   }
   .con-links a span{
         font-weight: bold;
@@ -347,7 +347,7 @@ body {
   .con-links a:after {
       content: '';
       left: -2px;
-      top: 40px;
+      top: 2.5px;
       width: 50px;
       height: 50px;
       background: rgb(var(--color));;
